@@ -6,7 +6,7 @@
 
         public MyMapNode(int v)
         {
-            this.v = v;
+            this.v = v ;
         }
     }
 }
