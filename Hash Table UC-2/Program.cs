@@ -34,7 +34,7 @@ namespace Hash_Table_UC_2
 
             foreach (DictionaryEntry freq in myhashtable)
             {
-                Console.WriteLine("{0} and {1} ", freq.Key, freq.Value);
+                Console.WriteLine("{0} and {1}", freq.Key, freq.Value);
             }
         }
     }
